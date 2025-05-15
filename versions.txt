@@ -1,1 +1,3 @@
-LightBrowser v.1.0
+|LightBrowser v.1.0|YES
+|LightBrowser v.1.5|YES
+|LightBrowser v.2.0|YES
